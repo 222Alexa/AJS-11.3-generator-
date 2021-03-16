@@ -14,19 +14,6 @@
 
 ---
 
-## Описание
-
-В этом задании предполагается, что все персонажи содержат следующий набор полей:
-```javascript
-const char = {
-  name: 'Лучник',
-  type: 'Bowman',
-  health: 50,
-  level: 1,
-  attack: 40,
-  defence: 10
-}
-```
 
 
 ## Генераторы (задача со звёздочкой)
@@ -45,3 +32,5 @@ canIterate(null); // false
 canIterate(10); // false
 canIterate("Netology"); // true
 ```
+
+[![Build status](https://ci.appveyor.com/api/projects/status/yu7u0f0j5nb7r7jl/branch/main?svg=true)](https://ci.appveyor.com/project/222Alexa44925/ajs-11-3/branch/main)
