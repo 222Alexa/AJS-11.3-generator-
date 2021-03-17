@@ -16,6 +16,7 @@ const list = [
 
 list.forEach((item) => {
   const answer = canIterate(item);
+
   console.log(item);
   console.log(answer);
 });
